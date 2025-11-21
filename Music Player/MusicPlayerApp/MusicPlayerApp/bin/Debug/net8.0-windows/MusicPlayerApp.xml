@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MusicPlayerApp</name>
+    </assembly>
+    <members>
+        <member name="T:MusicPlayerApp.MusicPlayerApp">
+            <summary>
+            This is the MusicPlayerApp class.
+            </summary>
+        </member>
+        <member name="F:MusicPlayerApp.MusicPlayerApp.Player">
+            <summary>
+            This declares the Windows Media Player Control
+            </summary>
+        </member>
+        <member name="M:MusicPlayerApp.MusicPlayerApp.#ctor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:MusicPlayerApp.MusicPlayerApp.paths">
+            <summary>
+            Create Global variables of String Type Array to save the
+            titles of the Tracks and their paths
+            </summary>
+        </member>
+        <member name="F:MusicPlayerApp.MusicPlayerApp.files">
+            <summary>
+            Create Global variables of String Type Array to save the
+            titles of the Tracks and their paths
+            </summary>
+        </member>
+        <member name="M:MusicPlayerApp.MusicPlayerApp.btnSelectSongs_Click(System.Object,System.EventArgs)">
+            <summary>
+            This button handler allows the user to select a group of 
+            songs via the FileDialog box.  Multiselect is set on
+            Array files is set to the names of the .mp3 files.
+            Array paths is set to the URLs of the .mp3 files.
+            The titles are displayed in the listbox.
+            </summary>
+            <param name="sender">This is the object that raised the event</param>
+            <param name="e">This is a convention</param>
+        </member>
+        <member name="M:MusicPlayerApp.MusicPlayerApp.listBoxSongs_SelectedIndexChanged(System.Object,System.EventArgs)">
+            <summary>
+            This handler runs when a song title in the listbox is selected.
+            It plays only that song and then play ends.
+            </summary>
+            <param name="sender">This is the object that raised the event</param>
+            <param name="e">This is a convention</param>
+        </member>
+        <member name="M:MusicPlayerApp.MusicPlayerApp.btnPlayNextSong_Click(System.Object,System.EventArgs)">
+            <summary>
+            This button handler plays the next song in the list of songs
+            as long as the end of the list has not been reached.
+            If the last song is playing when the button is pressed, 
+            then go back to the first song in the list.
+            </summary>
+            <param name="sender">This is the object that raised the event</param>
+            <param name="e">This is a convention</param>
+        </member>
+        <member name="M:MusicPlayerApp.MusicPlayerApp.pictureBox1_Click(System.Object,System.EventArgs)">
+            <summary>
+            This handler closes the app when you click the X in the 
+            upper right corner of the window.
+            </summary>
+            <param name="sender">This is the object that raised the event</param>
+            <param name="e">This is a convention</param>
+        </member>
+        <member name="M:MusicPlayerApp.MusicPlayerApp.btnPlayAll_Click(System.Object,System.EventArgs)">
+            <summary>
+            This button handler handles the Play All button.
+            First it creates a new, empty playlist,
+            Then it adds each URL in array paths to the playlist.
+            Finally, it sets the playlist to the current playlist
+            for playback.
+            </summary>
+            <param name="sender">This is the object that raised the event</param>
+            <param name="e">This is a convention</param>
+        </member>
+        <member name="M:MusicPlayerApp.MusicPlayerApp.btnStop_Click(System.Object,System.EventArgs)">
+            <summary>
+            This button handler handles the Stop button
+            It sets axWindowsMediaPlayerMusic controls to 
+            stop playing the playlist and sets the index to 
+            the first song.
+            </summary>
+            <param name="sender">This is the object that raised the event</param>
+            <param name="e">This is a convention</param>
+        </member>
+        <member name="M:MusicPlayerApp.MusicPlayerApp.listBoxPlaylist_SelectedIndexChanged(System.Object,System.EventArgs)">
+            <summary>
+            Event handler for ListBoxSongs playlist selection change
+            If the index is valid, then set the axWindowsMediaPlayerMusic.URL
+            to the paths listBoxSongs selected index and set the 
+            axWindowsMediaPlayerMusic controls to play the playlist
+            </summary>
+            <param name="sender">This is the object that raised the event</param>
+            <param name="e">This is a convention</param>
+        </member>
+        <member name="F:MusicPlayerApp.MusicPlayerApp.components">
+            <summary>
+             Required designer variable.
+            </summary>
+        </member>
+        <member name="M:MusicPlayerApp.MusicPlayerApp.Dispose(System.Boolean)">
+            <summary>
+             Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:MusicPlayerApp.MusicPlayerApp.InitializeComponent">
+            <summary>
+             Required method for Designer support - do not modify
+             the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:MusicPlayerApp.Program.Main">
+            <summary>
+             The main entry point for the application.
+            </summary>
+        </member>
+        <member name="T:MusicPlayerApp.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:MusicPlayerApp.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:MusicPlayerApp.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="T:MusicPlayerApp.ApplicationConfiguration">
+            <summary>
+             Bootstrap the application configuration.
+            </summary>
+        </member>
+        <member name="M:MusicPlayerApp.ApplicationConfiguration.Initialize">
+            <summary>
+             Bootstrap the application as follows:
+             <code>
+             global::System.Windows.Forms.Application.EnableVisualStyles();
+             global::System.Windows.Forms.Application.SetCompatibleTextRenderingDefault(false);
+             global::System.Windows.Forms.Application.SetHighDpiMode(HighDpiMode.SystemAware);
+            </code>
+            </summary>
+        </member>
+    </members>
+</doc>
