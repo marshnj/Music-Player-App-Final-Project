@@ -1,0 +1,79 @@
+C:\Users\nick_\OneDrive\Desktop\2025 Fall Semester\CIS 285 Object Oriented Programming\Final Project\Music Player\MusicPlayerApp\MusicPlayerApp\bin\Debug\net8.0-windows\MusicPlayerApp.exe
+C:\Users\nick_\OneDrive\Desktop\2025 Fall Semester\CIS 285 Object Oriented Programming\Final Project\Music Player\MusicPlayerApp\MusicPlayerApp\bin\Debug\net8.0-windows\MusicPlayerApp.deps.json
+C:\Users\nick_\OneDrive\Desktop\2025 Fall Semester\CIS 285 Object Oriented Programming\Final Project\Music Player\MusicPlayerApp\MusicPlayerApp\bin\Debug\net8.0-windows\MusicPlayerApp.runtimeconfig.json
+C:\Users\nick_\OneDrive\Desktop\2025 Fall Semester\CIS 285 Object Oriented Programming\Final Project\Music Player\MusicPlayerApp\MusicPlayerApp\bin\Debug\net8.0-windows\MusicPlayerApp.dll
+C:\Users\nick_\OneDrive\Desktop\2025 Fall Semester\CIS 285 Object Oriented Programming\Final Project\Music Player\MusicPlayerApp\MusicPlayerApp\bin\Debug\net8.0-windows\MusicPlayerApp.pdb
+C:\Users\nick_\OneDrive\Desktop\2025 Fall Semester\CIS 285 Object Oriented Programming\Final Project\Music Player\MusicPlayerApp\MusicPlayerApp\bin\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\nick_\OneDrive\Desktop\2025 Fall Semester\CIS 285 Object Oriented Programming\Final Project\Music Player\MusicPlayerApp\MusicPlayerApp\bin\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\nick_\OneDrive\Desktop\2025 Fall Semester\CIS 285 Object Oriented Programming\Final Project\Music Player\MusicPlayerApp\MusicPlayerApp\obj\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\nick_\OneDrive\Desktop\2025 Fall Semester\CIS 285 Object Oriented Programming\Final Project\Music Player\MusicPlayerApp\MusicPlayerApp\obj\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\nick_\OneDrive\Desktop\2025 Fall Semester\CIS 285 Object Oriented Programming\Final Project\Music Player\MusicPlayerApp\MusicPlayerApp\obj\Debug\net8.0-windows\MusicPlayerApp.csproj.ResolveComReference.cache
+C:\Users\nick_\OneDrive\Desktop\2025 Fall Semester\CIS 285 Object Oriented Programming\Final Project\Music Player\MusicPlayerApp\MusicPlayerApp\obj\Debug\net8.0-windows\MusicPlayerApp.MusicPlayerApp.resources
+C:\Users\nick_\OneDrive\Desktop\2025 Fall Semester\CIS 285 Object Oriented Programming\Final Project\Music Player\MusicPlayerApp\MusicPlayerApp\obj\Debug\net8.0-windows\MusicPlayerApp.Properties.Resources.resources
+C:\Users\nick_\OneDrive\Desktop\2025 Fall Semester\CIS 285 Object Oriented Programming\Final Project\Music Player\MusicPlayerApp\MusicPlayerApp\obj\Debug\net8.0-windows\MusicPlayerApp.csproj.GenerateResource.cache
+C:\Users\nick_\OneDrive\Desktop\2025 Fall Semester\CIS 285 Object Oriented Programming\Final Project\Music Player\MusicPlayerApp\MusicPlayerApp\obj\Debug\net8.0-windows\MusicPlayerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nick_\OneDrive\Desktop\2025 Fall Semester\CIS 285 Object Oriented Programming\Final Project\Music Player\MusicPlayerApp\MusicPlayerApp\obj\Debug\net8.0-windows\MusicPlayerApp.AssemblyInfoInputs.cache
+C:\Users\nick_\OneDrive\Desktop\2025 Fall Semester\CIS 285 Object Oriented Programming\Final Project\Music Player\MusicPlayerApp\MusicPlayerApp\obj\Debug\net8.0-windows\MusicPlayerApp.AssemblyInfo.cs
+C:\Users\nick_\OneDrive\Desktop\2025 Fall Semester\CIS 285 Object Oriented Programming\Final Project\Music Player\MusicPlayerApp\MusicPlayerApp\obj\Debug\net8.0-windows\MusicPlayerApp.csproj.CoreCompileInputs.cache
+C:\Users\nick_\OneDrive\Desktop\2025 Fall Semester\CIS 285 Object Oriented Programming\Final Project\Music Player\MusicPlayerApp\MusicPlayerApp\obj\Debug\net8.0-windows\MusicPlayerApp.dll
+C:\Users\nick_\OneDrive\Desktop\2025 Fall Semester\CIS 285 Object Oriented Programming\Final Project\Music Player\MusicPlayerApp\MusicPlayerApp\obj\Debug\net8.0-windows\refint\MusicPlayerApp.dll
+C:\Users\nick_\OneDrive\Desktop\2025 Fall Semester\CIS 285 Object Oriented Programming\Final Project\Music Player\MusicPlayerApp\MusicPlayerApp\obj\Debug\net8.0-windows\MusicPlayerApp.pdb
+C:\Users\nick_\OneDrive\Desktop\2025 Fall Semester\CIS 285 Object Oriented Programming\Final Project\Music Player\MusicPlayerApp\MusicPlayerApp\obj\Debug\net8.0-windows\MusicPlayerApp.genruntimeconfig.cache
+C:\Users\nick_\OneDrive\Desktop\2025 Fall Semester\CIS 285 Object Oriented Programming\Final Project\Music Player\MusicPlayerApp\MusicPlayerApp\obj\Debug\net8.0-windows\ref\MusicPlayerApp.dll
+C:\Users\nick_\OneDrive\Desktop\2025 Fall Semester\CIS 285 Object Oriented Programming\Final Project\Music Player\MusicPlayerApp\MusicPlayerApp\bin\Debug\net8.0-windows\MusicPlayerApp.xml
+C:\Users\nick_\OneDrive\Desktop\2025 Fall Semester\CIS 285 Object Oriented Programming\Final Project\Music Player\MusicPlayerApp\MusicPlayerApp\obj\Debug\net8.0-windows\MusicPlayerApp.xml
+C:\Users\nick_\OneDrive\Desktop\2025 Fall Semester\CIS 285 Object Oriented Programming\Final Project\Music Player\MusicPlayerApp\MusicPlayerApp\bin\Debug\Debug\net8.0-windows\MusicPlayerApp.exe
+C:\Users\nick_\OneDrive\Desktop\2025 Fall Semester\CIS 285 Object Oriented Programming\Final Project\Music Player\MusicPlayerApp\MusicPlayerApp\bin\Debug\Debug\net8.0-windows\MusicPlayerApp.deps.json
+C:\Users\nick_\OneDrive\Desktop\2025 Fall Semester\CIS 285 Object Oriented Programming\Final Project\Music Player\MusicPlayerApp\MusicPlayerApp\bin\Debug\Debug\net8.0-windows\MusicPlayerApp.runtimeconfig.json
+C:\Users\nick_\OneDrive\Desktop\2025 Fall Semester\CIS 285 Object Oriented Programming\Final Project\Music Player\MusicPlayerApp\MusicPlayerApp\bin\Debug\Debug\net8.0-windows\MusicPlayerApp.dll
+C:\Users\nick_\OneDrive\Desktop\2025 Fall Semester\CIS 285 Object Oriented Programming\Final Project\Music Player\MusicPlayerApp\MusicPlayerApp\bin\Debug\Debug\net8.0-windows\MusicPlayerApp.pdb
+C:\Users\nick_\OneDrive\Desktop\2025 Fall Semester\CIS 285 Object Oriented Programming\Final Project\Music Player\MusicPlayerApp\MusicPlayerApp\bin\Debug\Debug\net8.0-windows\MusicPlayerApp.xml
+C:\Users\nick_\OneDrive\Desktop\2025 Fall Semester\CIS 285 Object Oriented Programming\Final Project\Music Player\MusicPlayerApp\MusicPlayerApp\bin\Debug\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\nick_\OneDrive\Desktop\2025 Fall Semester\CIS 285 Object Oriented Programming\Final Project\Music Player\MusicPlayerApp\MusicPlayerApp\bin\Debug\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\cynth\Documents\Calhoun\CIS 285_C#\Project\2A - Music Player\Music Player\MusicPlayerApp\MusicPlayerApp\obj\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\cynth\Documents\Calhoun\CIS 285_C#\Project\2A - Music Player\Music Player\MusicPlayerApp\MusicPlayerApp\obj\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\cynth\Documents\Calhoun\CIS 285_C#\Project\2A - Music Player\Music Player\MusicPlayerApp\MusicPlayerApp\obj\Debug\net8.0-windows\MusicPlayerApp.csproj.ResolveComReference.cache
+C:\Users\cynth\Documents\Calhoun\CIS 285_C#\Project\2A - Music Player\Music Player\MusicPlayerApp\MusicPlayerApp\obj\Debug\net8.0-windows\MusicPlayerApp.dll
+C:\Users\cynth\Documents\Calhoun\CIS 285_C#\Project\2A - Music Player\Music Player\MusicPlayerApp\MusicPlayerApp\obj\Debug\net8.0-windows\refint\MusicPlayerApp.dll
+C:\Users\cynth\Documents\Calhoun\CIS 285_C#\Project\2A - Music Player\Music Player\MusicPlayerApp\MusicPlayerApp\obj\Debug\net8.0-windows\MusicPlayerApp.xml
+C:\Users\cynth\Documents\Calhoun\CIS 285_C#\Project\2A - Music Player\Music Player\MusicPlayerApp\MusicPlayerApp\obj\Debug\net8.0-windows\MusicPlayerApp.pdb
+C:\Users\cynth\Documents\Calhoun\CIS 285_C#\Project\2A - Music Player\Music Player\MusicPlayerApp\MusicPlayerApp\bin\Debug\Debug\net8.0-windows\MusicPlayerApp.exe
+C:\Users\cynth\Documents\Calhoun\CIS 285_C#\Project\2A - Music Player\Music Player\MusicPlayerApp\MusicPlayerApp\bin\Debug\Debug\net8.0-windows\MusicPlayerApp.deps.json
+C:\Users\cynth\Documents\Calhoun\CIS 285_C#\Project\2A - Music Player\Music Player\MusicPlayerApp\MusicPlayerApp\bin\Debug\Debug\net8.0-windows\MusicPlayerApp.runtimeconfig.json
+C:\Users\cynth\Documents\Calhoun\CIS 285_C#\Project\2A - Music Player\Music Player\MusicPlayerApp\MusicPlayerApp\bin\Debug\Debug\net8.0-windows\MusicPlayerApp.dll
+C:\Users\cynth\Documents\Calhoun\CIS 285_C#\Project\2A - Music Player\Music Player\MusicPlayerApp\MusicPlayerApp\bin\Debug\Debug\net8.0-windows\MusicPlayerApp.pdb
+C:\Users\cynth\Documents\Calhoun\CIS 285_C#\Project\2A - Music Player\Music Player\MusicPlayerApp\MusicPlayerApp\bin\Debug\Debug\net8.0-windows\MusicPlayerApp.xml
+C:\Users\cynth\Documents\Calhoun\CIS 285_C#\Project\2A - Music Player\Music Player\MusicPlayerApp\MusicPlayerApp\bin\Debug\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\cynth\Documents\Calhoun\CIS 285_C#\Project\2A - Music Player\Music Player\MusicPlayerApp\MusicPlayerApp\bin\Debug\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\cynth\Documents\Calhoun\CIS 285_C#\Project\2A - Music Player\Music Player\MusicPlayerApp\MusicPlayerApp\obj\Debug\net8.0-windows\MusicPlayerApp.MusicPlayerApp.resources
+C:\Users\cynth\Documents\Calhoun\CIS 285_C#\Project\2A - Music Player\Music Player\MusicPlayerApp\MusicPlayerApp\obj\Debug\net8.0-windows\MusicPlayerApp.Properties.Resources.resources
+C:\Users\cynth\Documents\Calhoun\CIS 285_C#\Project\2A - Music Player\Music Player\MusicPlayerApp\MusicPlayerApp\obj\Debug\net8.0-windows\MusicPlayerApp.csproj.GenerateResource.cache
+C:\Users\cynth\Documents\Calhoun\CIS 285_C#\Project\2A - Music Player\Music Player\MusicPlayerApp\MusicPlayerApp\obj\Debug\net8.0-windows\MusicPlayerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cynth\Documents\Calhoun\CIS 285_C#\Project\2A - Music Player\Music Player\MusicPlayerApp\MusicPlayerApp\obj\Debug\net8.0-windows\MusicPlayerApp.AssemblyInfoInputs.cache
+C:\Users\cynth\Documents\Calhoun\CIS 285_C#\Project\2A - Music Player\Music Player\MusicPlayerApp\MusicPlayerApp\obj\Debug\net8.0-windows\MusicPlayerApp.AssemblyInfo.cs
+C:\Users\cynth\Documents\Calhoun\CIS 285_C#\Project\2A - Music Player\Music Player\MusicPlayerApp\MusicPlayerApp\obj\Debug\net8.0-windows\MusicPlayerApp.csproj.CoreCompileInputs.cache
+C:\Users\cynth\Documents\Calhoun\CIS 285_C#\Project\2A - Music Player\Music Player\MusicPlayerApp\MusicPlayerApp\obj\Debug\net8.0-windows\MusicPlayerApp.genruntimeconfig.cache
+C:\Users\cynth\Documents\Calhoun\CIS 285_C#\Project\2A - Music Player\Music Player\MusicPlayerApp\MusicPlayerApp\obj\Debug\net8.0-windows\ref\MusicPlayerApp.dll
+C:\Users\nick_\OneDrive\Desktop\2025 Fall Semester\CIS 285 Object Oriented Programming\Final Project\Music Player V2A\2A - Music Player\Music Player\MusicPlayerApp\MusicPlayerApp\obj\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\nick_\OneDrive\Desktop\2025 Fall Semester\CIS 285 Object Oriented Programming\Final Project\Music Player V2A\2A - Music Player\Music Player\MusicPlayerApp\MusicPlayerApp\obj\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\nick_\OneDrive\Desktop\2025 Fall Semester\CIS 285 Object Oriented Programming\Final Project\Music Player V2A\2A - Music Player\Music Player\MusicPlayerApp\MusicPlayerApp\obj\Debug\net8.0-windows\MusicPlayerApp.csproj.ResolveComReference.cache
+C:\Users\nick_\OneDrive\Desktop\2025 Fall Semester\CIS 285 Object Oriented Programming\Final Project\Music Player V2A\2A - Music Player\Music Player\MusicPlayerApp\MusicPlayerApp\obj\Debug\net8.0-windows\MusicPlayerApp.dll
+C:\Users\nick_\OneDrive\Desktop\2025 Fall Semester\CIS 285 Object Oriented Programming\Final Project\Music Player V2A\2A - Music Player\Music Player\MusicPlayerApp\MusicPlayerApp\bin\Debug\Debug\net8.0-windows\MusicPlayerApp.exe
+C:\Users\nick_\OneDrive\Desktop\2025 Fall Semester\CIS 285 Object Oriented Programming\Final Project\Music Player V2A\2A - Music Player\Music Player\MusicPlayerApp\MusicPlayerApp\bin\Debug\Debug\net8.0-windows\MusicPlayerApp.deps.json
+C:\Users\nick_\OneDrive\Desktop\2025 Fall Semester\CIS 285 Object Oriented Programming\Final Project\Music Player V2A\2A - Music Player\Music Player\MusicPlayerApp\MusicPlayerApp\bin\Debug\Debug\net8.0-windows\MusicPlayerApp.runtimeconfig.json
+C:\Users\nick_\OneDrive\Desktop\2025 Fall Semester\CIS 285 Object Oriented Programming\Final Project\Music Player V2A\2A - Music Player\Music Player\MusicPlayerApp\MusicPlayerApp\bin\Debug\Debug\net8.0-windows\MusicPlayerApp.dll
+C:\Users\nick_\OneDrive\Desktop\2025 Fall Semester\CIS 285 Object Oriented Programming\Final Project\Music Player V2A\2A - Music Player\Music Player\MusicPlayerApp\MusicPlayerApp\bin\Debug\Debug\net8.0-windows\MusicPlayerApp.pdb
+C:\Users\nick_\OneDrive\Desktop\2025 Fall Semester\CIS 285 Object Oriented Programming\Final Project\Music Player V2A\2A - Music Player\Music Player\MusicPlayerApp\MusicPlayerApp\bin\Debug\Debug\net8.0-windows\MusicPlayerApp.xml
+C:\Users\nick_\OneDrive\Desktop\2025 Fall Semester\CIS 285 Object Oriented Programming\Final Project\Music Player V2A\2A - Music Player\Music Player\MusicPlayerApp\MusicPlayerApp\bin\Debug\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\nick_\OneDrive\Desktop\2025 Fall Semester\CIS 285 Object Oriented Programming\Final Project\Music Player V2A\2A - Music Player\Music Player\MusicPlayerApp\MusicPlayerApp\bin\Debug\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\nick_\OneDrive\Desktop\2025 Fall Semester\CIS 285 Object Oriented Programming\Final Project\Music Player V2A\2A - Music Player\Music Player\MusicPlayerApp\MusicPlayerApp\obj\Debug\net8.0-windows\MusicPlayerApp.MusicPlayerApp.resources
+C:\Users\nick_\OneDrive\Desktop\2025 Fall Semester\CIS 285 Object Oriented Programming\Final Project\Music Player V2A\2A - Music Player\Music Player\MusicPlayerApp\MusicPlayerApp\obj\Debug\net8.0-windows\MusicPlayerApp.csproj.GenerateResource.cache
+C:\Users\nick_\OneDrive\Desktop\2025 Fall Semester\CIS 285 Object Oriented Programming\Final Project\Music Player V2A\2A - Music Player\Music Player\MusicPlayerApp\MusicPlayerApp\obj\Debug\net8.0-windows\MusicPlayerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nick_\OneDrive\Desktop\2025 Fall Semester\CIS 285 Object Oriented Programming\Final Project\Music Player V2A\2A - Music Player\Music Player\MusicPlayerApp\MusicPlayerApp\obj\Debug\net8.0-windows\MusicPlayerApp.AssemblyInfoInputs.cache
+C:\Users\nick_\OneDrive\Desktop\2025 Fall Semester\CIS 285 Object Oriented Programming\Final Project\Music Player V2A\2A - Music Player\Music Player\MusicPlayerApp\MusicPlayerApp\obj\Debug\net8.0-windows\MusicPlayerApp.AssemblyInfo.cs
+C:\Users\nick_\OneDrive\Desktop\2025 Fall Semester\CIS 285 Object Oriented Programming\Final Project\Music Player V2A\2A - Music Player\Music Player\MusicPlayerApp\MusicPlayerApp\obj\Debug\net8.0-windows\MusicPlayerApp.csproj.CoreCompileInputs.cache
+C:\Users\nick_\OneDrive\Desktop\2025 Fall Semester\CIS 285 Object Oriented Programming\Final Project\Music Player V2A\2A - Music Player\Music Player\MusicPlayerApp\MusicPlayerApp\obj\Debug\net8.0-windows\refint\MusicPlayerApp.dll
+C:\Users\nick_\OneDrive\Desktop\2025 Fall Semester\CIS 285 Object Oriented Programming\Final Project\Music Player V2A\2A - Music Player\Music Player\MusicPlayerApp\MusicPlayerApp\obj\Debug\net8.0-windows\MusicPlayerApp.xml
+C:\Users\nick_\OneDrive\Desktop\2025 Fall Semester\CIS 285 Object Oriented Programming\Final Project\Music Player V2A\2A - Music Player\Music Player\MusicPlayerApp\MusicPlayerApp\obj\Debug\net8.0-windows\MusicPlayerApp.pdb
+C:\Users\nick_\OneDrive\Desktop\2025 Fall Semester\CIS 285 Object Oriented Programming\Final Project\Music Player V2A\2A - Music Player\Music Player\MusicPlayerApp\MusicPlayerApp\obj\Debug\net8.0-windows\MusicPlayerApp.genruntimeconfig.cache
+C:\Users\nick_\OneDrive\Desktop\2025 Fall Semester\CIS 285 Object Oriented Programming\Final Project\Music Player V2A\2A - Music Player\Music Player\MusicPlayerApp\MusicPlayerApp\obj\Debug\net8.0-windows\ref\MusicPlayerApp.dll
